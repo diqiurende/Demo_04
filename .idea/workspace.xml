@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b2d6e7d-60b9-49c7-8c2e-c4c9be3a345d" name="更改" comment="1" />
+    <list default="true" id="7b2d6e7d-60b9-49c7-8c2e-c4c9be3a345d" name="更改" comment="1">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service_consumer_16000/src/main/java/ynu/edu/feign/ServiceProviderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service_consumer_16000/src/main/java/ynu/edu/feign/ServiceProviderService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +124,7 @@
       <workItem from="1712563769349" duration="336000" />
       <workItem from="1712564119799" duration="180000" />
       <workItem from="1712564311780" duration="522000" />
-      <workItem from="1712564849935" duration="998000" />
+      <workItem from="1712564849935" duration="1199000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -131,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712565093476</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <option name="closed" value="true" />
+      <created>1712566134811</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712566134811</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

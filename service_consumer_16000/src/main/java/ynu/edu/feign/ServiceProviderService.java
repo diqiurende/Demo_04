@@ -12,10 +12,3 @@ public interface ServiceProviderService {
     CommonResult<User> getUserById(@PathVariable("userId") Integer userId);
 
 }
-//echo "# Demo4" >> README.md
-//        git init
-//        git add README.md
-//        git commit -m "first commit"
-//        git branch -M main
-//        git remote add origin https://github.com/diqiurende/Demo4.git
-//        git push -u origin main
