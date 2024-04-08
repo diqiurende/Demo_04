@@ -1,0 +1,6 @@
+# 项目排除路径
+/Eureka_Server_18000/target/
+/Eureka_Server_18001/target/
+/service_consumer_16000/target/
+/service_provider_11000/target/
+/service_provider_11001/target/
